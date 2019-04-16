@@ -1,0 +1,14 @@
+{
+    "name":             "qing7260/first",
+    "description":      "test",
+    "keywords":         ["first", "qing7260"],
+    "homepage":         "http://www.xxx.com ",
+    "time":             "2019-4-16",
+    "license":          "MIT",
+    "authors": [{
+        "name":         "qing7260",
+        "email":        "qing7260@outlook.com",
+        "homepage":     "http://www.qing7260.com",
+        "role":         "Engineer"
+    }]
+}
